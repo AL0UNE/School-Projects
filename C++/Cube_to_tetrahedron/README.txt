@@ -1,9 +1,10 @@
-Voici les instructions à suivre :
+This project has been done with David LAM.
 
--R3.hpp ,cube.hpp et Tetra.hpp ont été modifié pour la visualisation avec MEDIT
+Follow the following instructions :
 
--Assurez vous de bien lire le fichier "combinaison.txt" dans "MainFinal.cpp" à la ligne 58.
--Compiler le fichier "MainFinal.cpp" puis exécutez le.
--Choisir un entier en 0 et 69 pour votre découpe, puis entrez-le.
--Votre découpe a été enregistrée dans le fichier "output.mesh"
--Utiliser medit pour la visualisation
+
+-Ensure that you are able to correctly read "combinaison.txt" in "MainFinal.cpp" at line 58.
+-Compile and execute "MainFinal.cpp"
+-Choose an integer between 0 and 69 for a particular cut then press enter.
+-Your cut has been saved in "output.mesh"
+-Use medit for visualization.
